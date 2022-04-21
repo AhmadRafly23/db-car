@@ -1,0 +1,36 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Inova",
+      "category": "small",
+      "price": 5000000,
+      "status": false,
+      "image": "https://discoveryourindonesia.com/wp-content/uploads/2016/07/Inova-Car-Rental.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mitsubisi",
+      "category": "large",
+      "price": 8000000,
+      "status": true,
+      "image": "https://images.bisnis-cdn.com/posts/2021/02/18/1357799/the-world-premiere-of-the-all-new-2022-mitsubishi-outlander.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Fortuner",
+      "category": "small",
+      "price": 5000000,
+      "status": false,
+      "image": "https://tsoimageprod.azureedge.net/sys-master-hybrismedia/h1b/hd5/8823468752926/toyota%20fortuner%202021.png"
+    },
+    {
+      "id": 4,
+      "name": "Brio",
+      "category": "medium",
+      "price": 6000000,
+      "status": true,
+      "image": "https://images.autofun.co.th/file1/21ac696a09744af7976386a53a33615a_750x420.jpg"
+    }
+  ]
+}
